@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-03T02:53:16.295Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="IbsCEzQqtvCYRzzVmJPR" version="18.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-03T03:03:46.860Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="T18cXLYXOkrKDwWXLbxC" version="18.2.0" type="github">
   <diagram id="kHwue4zSDv6rkRo7yAcD" name="Page-1">
     <mxGraphModel dx="1552" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -225,6 +225,9 @@
         <mxCell id="hZGsorOQkky-hUSpiF_T-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="huiboyjthSdT7lwmt8Ed-88" target="hZGsorOQkky-hUSpiF_T-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="hZGsorOQkky-hUSpiF_T-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="huiboyjthSdT7lwmt8Ed-88" target="hZGsorOQkky-hUSpiF_T-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="huiboyjthSdT7lwmt8Ed-88" value="Deep Learning" style="rounded=1;whiteSpace=wrap;html=1;treeFolding=1;" parent="1" vertex="1">
           <mxGeometry x="-10" y="330" width="120" height="60" as="geometry" />
         </mxCell>
@@ -312,17 +315,38 @@
         <mxCell id="huiboyjthSdT7lwmt8Ed-121" value="Understanding Visual Information" style="rounded=1;whiteSpace=wrap;html=1;treeFolding=1;" parent="1" vertex="1" collapsed="1" visible="0">
           <mxGeometry x="720" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hZGsorOQkky-hUSpiF_T-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hZGsorOQkky-hUSpiF_T-1" target="hZGsorOQkky-hUSpiF_T-5">
+        <mxCell id="hZGsorOQkky-hUSpiF_T-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hZGsorOQkky-hUSpiF_T-1" target="hZGsorOQkky-hUSpiF_T-5" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hZGsorOQkky-hUSpiF_T-1" value="Based on Linear Regression" style="rounded=1;whiteSpace=wrap;html=1;treeFolding=1;" vertex="1" parent="1">
-          <mxGeometry x="-150" y="460" width="120" height="60" as="geometry" />
+        <mxCell id="hZGsorOQkky-hUSpiF_T-1" value="Based on Linear Regression" style="rounded=1;whiteSpace=wrap;html=1;treeFolding=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="-440" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hZGsorOQkky-hUSpiF_T-3" value="Shallow Learning" style="rounded=1;whiteSpace=wrap;html=1;treeFolding=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hZGsorOQkky-hUSpiF_T-5" value="With many Neural Nodes" style="rounded=1;whiteSpace=wrap;html=1;treeFolding=1;" vertex="1" parent="1">
-          <mxGeometry x="-150" y="600" width="120" height="60" as="geometry" />
+        <mxCell id="hZGsorOQkky-hUSpiF_T-5" value="With many Neural Nodes" style="rounded=1;whiteSpace=wrap;html=1;treeFolding=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-440" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hZGsorOQkky-hUSpiF_T-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hZGsorOQkky-hUSpiF_T-9" target="hZGsorOQkky-hUSpiF_T-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hZGsorOQkky-hUSpiF_T-9" value="Types of Deep Learning" style="rounded=1;whiteSpace=wrap;html=1;treeFolding=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hZGsorOQkky-hUSpiF_T-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hZGsorOQkky-hUSpiF_T-11" target="hZGsorOQkky-hUSpiF_T-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hZGsorOQkky-hUSpiF_T-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hZGsorOQkky-hUSpiF_T-11" target="hZGsorOQkky-hUSpiF_T-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hZGsorOQkky-hUSpiF_T-11" value="Stacking Automatic Encoders" style="rounded=1;whiteSpace=wrap;html=1;treeFolding=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hZGsorOQkky-hUSpiF_T-13" value="Automatic Encoders" style="rounded=1;whiteSpace=wrap;html=1;treeFolding=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hZGsorOQkky-hUSpiF_T-15" value="Stacking Automatic Encoders" style="rounded=1;whiteSpace=wrap;html=1;treeFolding=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
