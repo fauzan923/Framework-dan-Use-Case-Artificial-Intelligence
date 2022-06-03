@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-03T03:07:11.800Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="fEv7qkAYT4oYJAizbOer" version="18.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-03T03:21:01.852Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="pqn90KPMO0p0QlpjZNW0" version="18.2.0" type="github">
   <diagram id="kHwue4zSDv6rkRo7yAcD" name="Page-1">
     <mxGraphModel dx="1786" dy="1015" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -333,6 +333,12 @@
         <mxCell id="hZGsorOQkky-hUSpiF_T-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hZGsorOQkky-hUSpiF_T-9" target="hZGsorOQkky-hUSpiF_T-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="hZGsorOQkky-hUSpiF_T-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hZGsorOQkky-hUSpiF_T-32" target="hZGsorOQkky-hUSpiF_T-26" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hZGsorOQkky-hUSpiF_T-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hZGsorOQkky-hUSpiF_T-9" target="hZGsorOQkky-hUSpiF_T-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hZGsorOQkky-hUSpiF_T-9" value="Types of Deep Learning" style="rounded=1;whiteSpace=wrap;html=1;treeFolding=1;" vertex="1" parent="1">
           <mxGeometry x="-10" y="440" width="120" height="60" as="geometry" />
         </mxCell>
@@ -371,6 +377,18 @@
         </mxCell>
         <mxCell id="hZGsorOQkky-hUSpiF_T-24" value="Convolution Neural Network" style="rounded=1;whiteSpace=wrap;html=1;treeFolding=1;" vertex="1" parent="1">
           <mxGeometry x="-330" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hZGsorOQkky-hUSpiF_T-26" value="Graph Neural Networks" style="rounded=1;whiteSpace=wrap;html=1;treeFolding=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-220" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hZGsorOQkky-hUSpiF_T-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hZGsorOQkky-hUSpiF_T-32" target="hZGsorOQkky-hUSpiF_T-34" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hZGsorOQkky-hUSpiF_T-32" value="Deep Learning on Graphs" style="rounded=1;whiteSpace=wrap;html=1;treeFolding=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="-150" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hZGsorOQkky-hUSpiF_T-34" value="Graph Convolutional Networks" style="rounded=1;whiteSpace=wrap;html=1;treeFolding=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-80" y="770" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
