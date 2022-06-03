@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-03T07:00:51.559Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="nRX_D9vUMcGLOEj5Ogmc" version="18.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-03T07:21:44.450Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="XFTPx88-Ki3tl2U8xlxL" version="18.2.0" type="github">
   <diagram id="kHwue4zSDv6rkRo7yAcD" name="Page-1">
     <mxGraphModel dx="4333" dy="1003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -31,14 +31,14 @@
         <mxCell id="huiboyjthSdT7lwmt8Ed-2" value="Types of Machine Learning" style="rounded=1;whiteSpace=wrap;html=1;treeFolding=1;" parent="1" vertex="1">
           <mxGeometry x="-1795" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="huiboyjthSdT7lwmt8Ed-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="huiboyjthSdT7lwmt8Ed-4" target="huiboyjthSdT7lwmt8Ed-18" edge="1">
+        <mxCell id="hZGsorOQkky-hUSpiF_T-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="huiboyjthSdT7lwmt8Ed-4" target="hZGsorOQkky-hUSpiF_T-109" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="huiboyjthSdT7lwmt8Ed-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="huiboyjthSdT7lwmt8Ed-4" target="huiboyjthSdT7lwmt8Ed-20" edge="1">
+        <mxCell id="hZGsorOQkky-hUSpiF_T-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="huiboyjthSdT7lwmt8Ed-4" target="hZGsorOQkky-hUSpiF_T-113" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="huiboyjthSdT7lwmt8Ed-4" value="Supervised Learning" style="whiteSpace=wrap;html=1;rounded=1;treeFolding=1;" parent="1" vertex="1">
-          <mxGeometry x="-2280" y="530" width="120" height="60" as="geometry" />
+        <mxCell id="huiboyjthSdT7lwmt8Ed-4" value="Supervised Learning" style="whiteSpace=wrap;html=1;rounded=1;treeFolding=1;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="-2365" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="huiboyjthSdT7lwmt8Ed-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="huiboyjthSdT7lwmt8Ed-11" target="huiboyjthSdT7lwmt8Ed-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -64,14 +64,39 @@
         <mxCell id="huiboyjthSdT7lwmt8Ed-15" value="Reinforcement Learning" style="rounded=1;whiteSpace=wrap;html=1;treeFolding=1;" parent="1" vertex="1">
           <mxGeometry x="-1425" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="huiboyjthSdT7lwmt8Ed-18" value="Classification" style="whiteSpace=wrap;html=1;rounded=1;treeFolding=1;" parent="1" vertex="1">
-          <mxGeometry x="-2350" y="640" width="120" height="60" as="geometry" />
+        <mxCell id="hZGsorOQkky-hUSpiF_T-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="huiboyjthSdT7lwmt8Ed-18" target="hZGsorOQkky-hUSpiF_T-107" visible="0">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="huiboyjthSdT7lwmt8Ed-20" value="Regression" style="whiteSpace=wrap;html=1;rounded=1;treeFolding=1;" parent="1" vertex="1">
-          <mxGeometry x="-2200" y="640" width="120" height="60" as="geometry" />
+        <mxCell id="hZGsorOQkky-hUSpiF_T-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="huiboyjthSdT7lwmt8Ed-18" target="hZGsorOQkky-hUSpiF_T-117" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hZGsorOQkky-hUSpiF_T-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="huiboyjthSdT7lwmt8Ed-18" target="hZGsorOQkky-hUSpiF_T-119" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="huiboyjthSdT7lwmt8Ed-18" value="Classification" style="whiteSpace=wrap;html=1;rounded=1;treeFolding=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="-2445" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hZGsorOQkky-hUSpiF_T-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="huiboyjthSdT7lwmt8Ed-20" target="hZGsorOQkky-hUSpiF_T-107" visible="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2114.9333333333334" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hZGsorOQkky-hUSpiF_T-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="huiboyjthSdT7lwmt8Ed-20" target="hZGsorOQkky-hUSpiF_T-119" visible="0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2225" y="870" />
+              <mxPoint x="-2385" y="870" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="huiboyjthSdT7lwmt8Ed-20" value="Regression" style="whiteSpace=wrap;html=1;rounded=1;treeFolding=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="-2285" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hZGsorOQkky-hUSpiF_T-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="huiboyjthSdT7lwmt8Ed-22" target="hZGsorOQkky-hUSpiF_T-122">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="huiboyjthSdT7lwmt8Ed-22" value="Clustering" style="rounded=1;whiteSpace=wrap;html=1;treeFolding=1;" parent="1" vertex="1">
-          <mxGeometry x="-2040" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2185" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="huiboyjthSdT7lwmt8Ed-24" value="Self-Training" style="rounded=1;whiteSpace=wrap;html=1;treeFolding=1;" parent="1" vertex="1">
           <mxGeometry x="-1865" y="640" width="120" height="60" as="geometry" />
@@ -528,6 +553,30 @@
         </mxCell>
         <mxCell id="hZGsorOQkky-hUSpiF_T-103" value="Combinatorial Optimization" style="rounded=1;whiteSpace=wrap;html=1;treeFolding=1;" vertex="1" parent="1">
           <mxGeometry x="1850" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hZGsorOQkky-hUSpiF_T-107" value="Support Vector Machine (SVM)" style="whiteSpace=wrap;html=1;rounded=1;treeFolding=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-2285" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hZGsorOQkky-hUSpiF_T-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hZGsorOQkky-hUSpiF_T-109" target="huiboyjthSdT7lwmt8Ed-18" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hZGsorOQkky-hUSpiF_T-109" value="Discrete Values" style="whiteSpace=wrap;html=1;rounded=1;treeFolding=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-2445" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hZGsorOQkky-hUSpiF_T-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hZGsorOQkky-hUSpiF_T-113" target="huiboyjthSdT7lwmt8Ed-20" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hZGsorOQkky-hUSpiF_T-113" value="Continous Values" style="whiteSpace=wrap;html=1;rounded=1;treeFolding=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-2285" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hZGsorOQkky-hUSpiF_T-117" value="Decision Tree" style="whiteSpace=wrap;html=1;rounded=1;treeFolding=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-2595" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hZGsorOQkky-hUSpiF_T-119" value="Random Forest" style="whiteSpace=wrap;html=1;rounded=1;treeFolding=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-2445" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hZGsorOQkky-hUSpiF_T-122" value="Hierarchical Clustering" style="rounded=1;whiteSpace=wrap;html=1;treeFolding=1;" vertex="1" parent="1">
+          <mxGeometry x="-2185" y="750" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
