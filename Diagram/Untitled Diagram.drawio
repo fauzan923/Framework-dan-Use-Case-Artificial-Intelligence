@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-03T07:29:19.259Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="3CwRu3iKg1bDNiu_85xx" version="18.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-03T13:23:57.748Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="qhaJvolhRQNtQeB3Zt8y" version="18.2.0" type="github">
   <diagram id="kHwue4zSDv6rkRo7yAcD" name="Page-1">
-    <mxGraphModel dx="4333" dy="1003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4352" dy="1003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -590,6 +590,9 @@
         <mxCell id="hZGsorOQkky-hUSpiF_T-124" value="Categories" style="rounded=1;whiteSpace=wrap;html=1;treeFolding=1;" vertex="1" parent="1">
           <mxGeometry x="-2185" y="720" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="hZGsorOQkky-hUSpiF_T-140" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hZGsorOQkky-hUSpiF_T-127" target="hZGsorOQkky-hUSpiF_T-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hZGsorOQkky-hUSpiF_T-127" value="Partitive Clustering" style="rounded=1;whiteSpace=wrap;html=1;treeFolding=1;" vertex="1" parent="1">
           <mxGeometry x="-2065" y="830" width="120" height="60" as="geometry" />
         </mxCell>
@@ -619,6 +622,9 @@
         </mxCell>
         <mxCell id="hZGsorOQkky-hUSpiF_T-137" value="Dendogram Representation" style="rounded=1;whiteSpace=wrap;html=1;treeFolding=1;" vertex="1" parent="1">
           <mxGeometry x="-2080" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hZGsorOQkky-hUSpiF_T-139" value="Hard C-Means / K-Means" style="rounded=1;whiteSpace=wrap;html=1;treeFolding=1;" vertex="1" parent="1">
+          <mxGeometry x="-1900" y="940" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
