@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-03T03:03:46.860Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="T18cXLYXOkrKDwWXLbxC" version="18.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-03T03:07:11.800Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="fEv7qkAYT4oYJAizbOer" version="18.2.0" type="github">
   <diagram id="kHwue4zSDv6rkRo7yAcD" name="Page-1">
-    <mxGraphModel dx="1552" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1786" dy="1015" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -330,23 +330,47 @@
         <mxCell id="hZGsorOQkky-hUSpiF_T-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hZGsorOQkky-hUSpiF_T-9" target="hZGsorOQkky-hUSpiF_T-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="hZGsorOQkky-hUSpiF_T-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hZGsorOQkky-hUSpiF_T-9" target="hZGsorOQkky-hUSpiF_T-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hZGsorOQkky-hUSpiF_T-9" value="Types of Deep Learning" style="rounded=1;whiteSpace=wrap;html=1;treeFolding=1;" vertex="1" parent="1">
           <mxGeometry x="-10" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hZGsorOQkky-hUSpiF_T-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hZGsorOQkky-hUSpiF_T-11" target="hZGsorOQkky-hUSpiF_T-13">
+        <mxCell id="hZGsorOQkky-hUSpiF_T-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hZGsorOQkky-hUSpiF_T-11" target="hZGsorOQkky-hUSpiF_T-13" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hZGsorOQkky-hUSpiF_T-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hZGsorOQkky-hUSpiF_T-11" target="hZGsorOQkky-hUSpiF_T-15">
+        <mxCell id="hZGsorOQkky-hUSpiF_T-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hZGsorOQkky-hUSpiF_T-11" target="hZGsorOQkky-hUSpiF_T-15" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hZGsorOQkky-hUSpiF_T-11" value="Stacking Automatic Encoders" style="rounded=1;whiteSpace=wrap;html=1;treeFolding=1;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="530" width="120" height="60" as="geometry" />
+        <mxCell id="hZGsorOQkky-hUSpiF_T-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hZGsorOQkky-hUSpiF_T-11" target="hZGsorOQkky-hUSpiF_T-17" visible="0">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hZGsorOQkky-hUSpiF_T-13" value="Automatic Encoders" style="rounded=1;whiteSpace=wrap;html=1;treeFolding=1;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="670" width="120" height="60" as="geometry" />
+        <mxCell id="hZGsorOQkky-hUSpiF_T-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hZGsorOQkky-hUSpiF_T-11" target="hZGsorOQkky-hUSpiF_T-19" visible="0">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hZGsorOQkky-hUSpiF_T-15" value="Stacking Automatic Encoders" style="rounded=1;whiteSpace=wrap;html=1;treeFolding=1;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="670" width="120" height="60" as="geometry" />
+        <mxCell id="hZGsorOQkky-hUSpiF_T-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hZGsorOQkky-hUSpiF_T-11" target="hZGsorOQkky-hUSpiF_T-21" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hZGsorOQkky-hUSpiF_T-11" value="Stacking Automatic Encoders" style="rounded=1;whiteSpace=wrap;html=1;treeFolding=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="-500" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hZGsorOQkky-hUSpiF_T-13" value="Automatic Encoders" style="rounded=1;whiteSpace=wrap;html=1;treeFolding=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-820" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hZGsorOQkky-hUSpiF_T-15" value="Stacking Automatic Encoders" style="rounded=1;whiteSpace=wrap;html=1;treeFolding=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-660" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hZGsorOQkky-hUSpiF_T-17" value="Restricted Boltzmann Machine" style="rounded=1;whiteSpace=wrap;html=1;treeFolding=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-500" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hZGsorOQkky-hUSpiF_T-19" value="Deep Belief Network" style="rounded=1;whiteSpace=wrap;html=1;treeFolding=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-350" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hZGsorOQkky-hUSpiF_T-21" value="Deep Boltzmann Machine" style="rounded=1;whiteSpace=wrap;html=1;treeFolding=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-200" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hZGsorOQkky-hUSpiF_T-24" value="Convolution Neural Network" style="rounded=1;whiteSpace=wrap;html=1;treeFolding=1;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="630" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
