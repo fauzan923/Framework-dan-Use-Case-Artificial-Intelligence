@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-04T13:18:18.065Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="dxqEizYxtv1D9b7nf_Ow" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-04T13:42:58.839Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="jrCebQhG3eFWtpU0oiLT" version="19.0.0" type="github">
   <diagram id="FMXjQB1aIxB4md0HR3l6" name="Page-1">
     <mxGraphModel dx="702" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -15,26 +15,6 @@
         </mxCell>
         <mxCell id="kOYGMovy5z7fQG_Vj6xM-5" value="Input Patient Data" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="12ZCaDhA3wb4f9CBfFdF-1">
           <mxGeometry x="55" y="90" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="kOYGMovy5z7fQG_Vj6xM-6" value="Input Patient Name" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="12ZCaDhA3wb4f9CBfFdF-1">
-          <mxGeometry x="295" y="50" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="kOYGMovy5z7fQG_Vj6xM-7" value="Input Patient Hospital Name" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="12ZCaDhA3wb4f9CBfFdF-1">
-          <mxGeometry x="295" y="140" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="kOYGMovy5z7fQG_Vj6xM-11" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="12ZCaDhA3wb4f9CBfFdF-1" target="kOYGMovy5z7fQG_Vj6xM-6">
-          <mxGeometry x="0.0337" width="160" relative="1" as="geometry">
-            <mxPoint x="195" y="120" as="sourcePoint" />
-            <mxPoint x="355" y="120" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kOYGMovy5z7fQG_Vj6xM-12" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="12ZCaDhA3wb4f9CBfFdF-1" source="kOYGMovy5z7fQG_Vj6xM-5" target="kOYGMovy5z7fQG_Vj6xM-7">
-          <mxGeometry x="-0.0008" width="160" relative="1" as="geometry">
-            <mxPoint x="205" y="140" as="sourcePoint" />
-            <mxPoint x="365" y="140" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="kOYGMovy5z7fQG_Vj6xM-13" value="Upload Recorded Voice" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="12ZCaDhA3wb4f9CBfFdF-1">
           <mxGeometry x="55" y="440" width="140" height="70" as="geometry" />
@@ -112,6 +92,15 @@
         </mxCell>
         <mxCell id="kOYGMovy5z7fQG_Vj6xM-34" value="Check the Transcript File" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="12ZCaDhA3wb4f9CBfFdF-1">
           <mxGeometry x="55" y="1030" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kOYGMovy5z7fQG_Vj6xM-40" value="Verify Patient Data" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="12ZCaDhA3wb4f9CBfFdF-1">
+          <mxGeometry x="300" y="90" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kOYGMovy5z7fQG_Vj6xM-41" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;" edge="1" parent="12ZCaDhA3wb4f9CBfFdF-1" source="kOYGMovy5z7fQG_Vj6xM-5" target="kOYGMovy5z7fQG_Vj6xM-40">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="190" y="130" as="sourcePoint" />
+            <mxPoint x="350" y="130" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="kOYGMovy5z7fQG_Vj6xM-2" value="Doctor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="660" width="30" height="60" as="geometry" />
