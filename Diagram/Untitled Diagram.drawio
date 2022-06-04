@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-03T15:25:58.508Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="AT1H3fCyOZr0N92AnHha" version="18.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-04T03:19:33.416Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="BPU36UIkmPUtM4KVvQeX" version="18.2.0" type="github">
   <diagram id="kHwue4zSDv6rkRo7yAcD" name="Page-1">
     <mxGraphModel dx="4333" dy="1003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -88,6 +88,9 @@
               <mxPoint x="-2385" y="870" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="hZGsorOQkky-hUSpiF_T-146" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="huiboyjthSdT7lwmt8Ed-20" target="hZGsorOQkky-hUSpiF_T-145">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="huiboyjthSdT7lwmt8Ed-20" value="Regression" style="whiteSpace=wrap;html=1;rounded=1;treeFolding=1;" parent="1" vertex="1">
           <mxGeometry x="-2285" y="740" width="120" height="60" as="geometry" />
@@ -637,6 +640,9 @@
         </mxCell>
         <mxCell id="hZGsorOQkky-hUSpiF_T-143" value="Fuzzy C-Means Clustering" style="rounded=1;whiteSpace=wrap;html=1;treeFolding=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="-1745" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hZGsorOQkky-hUSpiF_T-145" value="Linear Regression" style="whiteSpace=wrap;html=1;rounded=1;treeFolding=1;" vertex="1" parent="1">
+          <mxGeometry x="-2110" y="820" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
