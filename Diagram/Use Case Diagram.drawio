@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-06-04T10:45:17.119Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="4x9UxtA0_D4LRiHFOzPv" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-04T10:48:18.665Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="r-vlF70X6BeXLKmqaFNM" version="19.0.0" type="github">
   <diagram id="FMXjQB1aIxB4md0HR3l6" name="Page-1">
     <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="12ZCaDhA3wb4f9CBfFdF-1" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
-          <mxGeometry x="150" y="60" width="630" height="700" as="geometry" />
+          <mxGeometry x="150" y="40" width="630" height="700" as="geometry" />
         </mxCell>
         <mxCell id="kOYGMovy5z7fQG_Vj6xM-1" value="VOICE TO TEXT APPLICATION FOR MAKING HOSPITAL PROGRESS NOTES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="12ZCaDhA3wb4f9CBfFdF-1">
           <mxGeometry x="95" y="10" width="440" height="20" as="geometry" />
@@ -17,15 +17,23 @@
           <mxGeometry x="120" y="230" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="kOYGMovy5z7fQG_Vj6xM-6" value="Input Patient Name" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="12ZCaDhA3wb4f9CBfFdF-1">
-          <mxGeometry x="330" y="190" width="140" height="70" as="geometry" />
+          <mxGeometry x="360" y="190" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="kOYGMovy5z7fQG_Vj6xM-7" value="Play Recording" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="12ZCaDhA3wb4f9CBfFdF-1">
-          <mxGeometry x="330" y="290" width="140" height="70" as="geometry" />
+          <mxGeometry x="360" y="280" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="kOYGMovy5z7fQG_Vj6xM-8" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="12ZCaDhA3wb4f9CBfFdF-1" source="kOYGMovy5z7fQG_Vj6xM-5" target="kOYGMovy5z7fQG_Vj6xM-7">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="250" y="270" as="sourcePoint" />
-            <mxPoint x="410" y="270" as="targetPoint" />
+        <mxCell id="kOYGMovy5z7fQG_Vj6xM-11" value="&amp;lt;&amp;lt;Include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="12ZCaDhA3wb4f9CBfFdF-1" target="kOYGMovy5z7fQG_Vj6xM-6">
+          <mxGeometry x="0.0337" width="160" relative="1" as="geometry">
+            <mxPoint x="260" y="260" as="sourcePoint" />
+            <mxPoint x="420" y="260" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kOYGMovy5z7fQG_Vj6xM-12" value="&amp;lt;&amp;lt;Include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="12ZCaDhA3wb4f9CBfFdF-1" source="kOYGMovy5z7fQG_Vj6xM-5" target="kOYGMovy5z7fQG_Vj6xM-7">
+          <mxGeometry x="-0.0008" width="160" relative="1" as="geometry">
+            <mxPoint x="270" y="280" as="sourcePoint" />
+            <mxPoint x="430" y="280" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kOYGMovy5z7fQG_Vj6xM-2" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
