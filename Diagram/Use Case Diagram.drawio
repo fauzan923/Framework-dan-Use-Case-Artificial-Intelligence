@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-04T10:48:18.665Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="r-vlF70X6BeXLKmqaFNM" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-04T10:49:45.157Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="dpBW1FsBtrYS7z8FGopw" version="19.0.0" type="github">
   <diagram id="FMXjQB1aIxB4md0HR3l6" name="Page-1">
     <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="kOYGMovy5z7fQG_Vj6xM-6" value="Input Patient Name" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="12ZCaDhA3wb4f9CBfFdF-1">
           <mxGeometry x="360" y="190" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="kOYGMovy5z7fQG_Vj6xM-7" value="Play Recording" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="12ZCaDhA3wb4f9CBfFdF-1">
+        <mxCell id="kOYGMovy5z7fQG_Vj6xM-7" value="Input Patient Hospital Name" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="12ZCaDhA3wb4f9CBfFdF-1">
           <mxGeometry x="360" y="280" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="kOYGMovy5z7fQG_Vj6xM-11" value="&amp;lt;&amp;lt;Include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="12ZCaDhA3wb4f9CBfFdF-1" target="kOYGMovy5z7fQG_Vj6xM-6">
@@ -35,6 +35,9 @@
             <mxPoint x="430" y="280" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kOYGMovy5z7fQG_Vj6xM-13" value="Play Voice Record" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="12ZCaDhA3wb4f9CBfFdF-1">
+          <mxGeometry x="120" y="380" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="kOYGMovy5z7fQG_Vj6xM-2" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="410" width="30" height="60" as="geometry" />
