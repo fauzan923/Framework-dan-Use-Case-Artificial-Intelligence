@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-05T06:52:04.328Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="NAT2WdWqGGxk2r9aKEHU" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-05T06:56:32.263Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="_LbVGsAAIZykm13PSnYr" version="19.0.0" type="github">
   <diagram id="FMXjQB1aIxB4md0HR3l6" name="Page-1">
     <mxGraphModel dx="936" dy="1015" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -48,13 +48,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kOYGMovy5z7fQG_Vj6xM-26" value="Convert Recorded Voice into Transcript" style="ellipse;whiteSpace=wrap;html=1;" parent="12ZCaDhA3wb4f9CBfFdF-1" vertex="1">
-          <mxGeometry x="55" y="750" width="140" height="70" as="geometry" />
+          <mxGeometry x="20" y="710" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="kOYGMovy5z7fQG_Vj6xM-28" value="Check Upload Progress" style="ellipse;whiteSpace=wrap;html=1;" parent="12ZCaDhA3wb4f9CBfFdF-1" vertex="1">
           <mxGeometry x="235" y="600" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kOYGMovy5z7fQG_Vj6xM-30" value="Save the Conversion into a Transcript File" style="ellipse;whiteSpace=wrap;html=1;" parent="12ZCaDhA3wb4f9CBfFdF-1" vertex="1">
-          <mxGeometry x="295" y="780" width="140" height="70" as="geometry" />
+          <mxGeometry x="300" y="740" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="kOYGMovy5z7fQG_Vj6xM-31" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;" parent="12ZCaDhA3wb4f9CBfFdF-1" source="kOYGMovy5z7fQG_Vj6xM-26" target="kOYGMovy5z7fQG_Vj6xM-30" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -63,7 +63,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kOYGMovy5z7fQG_Vj6xM-32" value="Upload the Transcript File" style="ellipse;whiteSpace=wrap;html=1;" parent="12ZCaDhA3wb4f9CBfFdF-1" vertex="1">
-          <mxGeometry x="440" y="860" width="140" height="70" as="geometry" />
+          <mxGeometry x="440" y="830" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="kOYGMovy5z7fQG_Vj6xM-33" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;" parent="12ZCaDhA3wb4f9CBfFdF-1" source="kOYGMovy5z7fQG_Vj6xM-30" target="kOYGMovy5z7fQG_Vj6xM-32" edge="1">
           <mxGeometry x="0.16" y="-3" width="160" relative="1" as="geometry">
@@ -97,6 +97,15 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="190" y="560" as="sourcePoint" />
             <mxPoint x="350" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RDRNDBfCvS04jPJxOIlI-10" value="Makes the received recorded voice file compatible with the system" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="12ZCaDhA3wb4f9CBfFdF-1">
+          <mxGeometry x="170" y="810" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RDRNDBfCvS04jPJxOIlI-11" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;" edge="1" parent="12ZCaDhA3wb4f9CBfFdF-1" source="kOYGMovy5z7fQG_Vj6xM-26" target="RDRNDBfCvS04jPJxOIlI-10">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="100" y="830" as="sourcePoint" />
+            <mxPoint x="260" y="830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kOYGMovy5z7fQG_Vj6xM-2" value="Doctor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
