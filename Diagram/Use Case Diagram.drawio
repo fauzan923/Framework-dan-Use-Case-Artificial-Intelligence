@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-05T05:56:03.525Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="EHWqCrMBy2YUsQ2UoDh3" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-05T05:58:45.232Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="xq2XJ7kbG5E6o_kAGvhe" version="19.0.0" type="github">
   <diagram id="FMXjQB1aIxB4md0HR3l6" name="Page-1">
     <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -53,12 +53,6 @@
         <mxCell id="kOYGMovy5z7fQG_Vj6xM-28" value="Check Upload Progress" style="ellipse;whiteSpace=wrap;html=1;" parent="12ZCaDhA3wb4f9CBfFdF-1" vertex="1">
           <mxGeometry x="235" y="600" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kOYGMovy5z7fQG_Vj6xM-29" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;startArrow=open;endArrow=none;startSize=12;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;" parent="12ZCaDhA3wb4f9CBfFdF-1" source="kOYGMovy5z7fQG_Vj6xM-13" target="kOYGMovy5z7fQG_Vj6xM-28" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="90" y="620" as="sourcePoint" />
-            <mxPoint x="250" y="620" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="kOYGMovy5z7fQG_Vj6xM-30" value="Save the Conversion into Transcript File" style="ellipse;whiteSpace=wrap;html=1;" parent="12ZCaDhA3wb4f9CBfFdF-1" vertex="1">
           <mxGeometry x="295" y="780" width="140" height="70" as="geometry" />
         </mxCell>
@@ -97,6 +91,12 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="120" y="380" as="sourcePoint" />
             <mxPoint x="280" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RDRNDBfCvS04jPJxOIlI-9" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;" edge="1" parent="12ZCaDhA3wb4f9CBfFdF-1" source="kOYGMovy5z7fQG_Vj6xM-13" target="kOYGMovy5z7fQG_Vj6xM-28">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="190" y="560" as="sourcePoint" />
+            <mxPoint x="350" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kOYGMovy5z7fQG_Vj6xM-2" value="Doctor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
